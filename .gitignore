@@ -10,7 +10,6 @@ logs
 # Standard dist folder
 
 # Tooling files
-node_modules
 
 # Temp directory
 /tmp
